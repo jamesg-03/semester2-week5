@@ -2,8 +2,8 @@
  * Sem 2, week 5
  *
  * Portfolio submission: Hexadecimal to Decimal Converter
- * Name:
- * ID: 
+ * Name: James Graham
+ * ID: 202028828
  */
 
 #include <stdio.h>
